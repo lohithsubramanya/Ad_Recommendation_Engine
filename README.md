@@ -9,3 +9,15 @@ Parameters in the dataset:
 * avg_cost_per_click : On an average, how much it cost each of those clicks 
 * total_revenue : How much revenue came from the conversions 
 * ad : Group names (40 groups)
+
+
+Objective : 
+
+1. Identify 5 best ad groups and justify the metric chosen.
+
+2. Develop a time-series model, for each group, to forecast the number of ads that will be shown on a particular day in the future.
+
+3. Cluster ads groups into 3 clusters:
+  a. avg_cost_per_click is going up
+  b. avg_cost_per_click is constant
+  c. avg_cost_per_click is going down
