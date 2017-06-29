@@ -11,6 +11,9 @@ Parameters in the dataset:
 * ad : Group names (40 groups)
 
 
+
+## The dataset has 2115 rows and 7 columns
+
 Objective : 
 
 1. Identify 5 best ad groups and justify the metric chosen.
